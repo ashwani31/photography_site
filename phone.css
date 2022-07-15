@@ -1,0 +1,32 @@
+body{
+    height: auto;
+}
+.banner{
+    display: grid;
+    height: auto;
+}
+.navbar{
+    flex-direction: column;
+
+}
+nav ul li{
+    display: grid;
+}
+.banner-text{
+    position: relative;
+    display: grid;
+}
+.stock h2{
+    display: flex;
+    justify-content: center;
+}
+.stock{
+    margin: auto 10px;
+    width: auto;
+    padding: 10px 10px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
